@@ -546,3 +546,6 @@ while True:
         view.view_all_data()
 
 conn.close()
+
+#Kindly have sqlite3 viewing application for better understanding
+
